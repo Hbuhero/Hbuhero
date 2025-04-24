@@ -1,12 +1,3 @@
-## Hi there 👋
-
-
-<!-- **Hbuhero/Hbuhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-- 🔭 I’m currently working on a university event management app
-- 🌱 I’m currently learning Rust and Polkadot Ecosystem
-- 👯 I’m looking to collaborate on project involved with Spring Boot, Solidity and Rust
-
 <h1 align="center">Hi there 👋, I'm Hbuhero</h1>
 <h3 align="center">Backend & Smart Contract Developer | Exploring Rust & the Polkadot Ecosystem</h3>
 
@@ -31,14 +22,16 @@
   <br/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white" alt="Foundry"/>
-  <img src="https://img.shields.io/badge/Hardhat-000000?style=for-the-badge&logo=hardhat&logoColor=white" alt="Hardhat"/>
   <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="OpenZeppelin"/>
   <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="Chainlink"/>
+   <img src="https://img.shields.io/badge/FHIR-EC1C24?style=for-the-badge&logo=fhir&logoColor=white" alt="FHIR"/>
   <br/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/iHRIS-0052CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMu b3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIGZpbGw9IiMwMDUyQ0MiLz48dGV4dCB4PSI2IiB5PSIyMCIgZmlsbD0id2hpdGUiIGZvbnQt ZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCI+aUhSSVM8L3RleHQ+PC9zdmc+" alt="iHRIS"/>
+
+
 </p>
 
 ---
