@@ -21,15 +21,17 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   <br/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
   <img src="https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=foundry&logoColor=white" alt="Foundry"/>
   <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=for-the-badge&logo=openzeppelin&logoColor=white" alt="OpenZeppelin"/>
   <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white" alt="Chainlink"/>
    <img src="https://img.shields.io/badge/FHIR-EC1C24?style=for-the-badge&logo=fhir&logoColor=white" alt="FHIR"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+
   <br/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/iHRIS-0052CC?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMu b3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIGZpbGw9IiMwMDUyQ0MiLz48dGV4dCB4PSI2IiB5PSIyMCIgZmlsbD0id2hpdGUiIGZvbnQt ZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIxMCI+aUhSSVM8L3RleHQ+PC9zdmc+" alt="iHRIS"/>
 
 
 </p>
@@ -40,7 +42,9 @@
 
 - 🦀 **Rust**: Embracing the power and safety of systems programming.
 - 🌐 **Polkadot Ecosystem**: Exploring multi-chain interoperability and decentralized applications.
-
+- 🔐 **Zero-Knowledge Proofs (ZK)**  
+- 🧠 **Cryptography & Privacy Protocols**
+  
 ---
 
 ### 🔥 Featured Projects
@@ -53,9 +57,7 @@ Here are some of my recent and notable projects:
 
 - [**EigenLayer-Inspired Restaking Protocol**](https://github.com/Hbuhero/eigen-layer): Replicated core components of EigenLayer, focusing on restaking mechanisms and modular security frameworks.
 
-- [**University Event Management System**](https://github.com/Hbuhero/university-event-management): Created a platform for students to share and discover external events, enhancing engagement and skill development.
-
-- [**AR/VR Office Space Management Backend**](https://github.com/Hbuhero/office-space-management): Built a backend system enabling AR/VR applications to visualize real-time office space occupancy.
+- [**University Event Management System**](https://github.com/Hbuhero/uni-event): Created a platform for students to share and discover external events, enhancing engagement and skill development.
 
 ---
 
@@ -63,11 +65,13 @@ Here are some of my recent and notable projects:
 
 Feel free to reach out or explore more of my work:
 
+- Email: [hbuhero@gmail.com](hbuhero@gmail.com)
+
 - GitHub: [Hbuhero](https://github.com/Hbuhero)
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/hud-said-307832277/)
 
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+
 
 ---
 
