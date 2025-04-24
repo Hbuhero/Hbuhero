@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Hbuhero</h1>
-<h3 align="center">Backend & Smart Contract Developer | Exploring Rust & the Polkadot Ecosystem</h3>
+<h3 align="center">Full Stack Web & Blockchain Developer</h3>
 
 ---
 
@@ -8,6 +8,7 @@
 - 🔧 Passionate about building robust backend systems and secure smart contracts.
 - 🌱 Currently diving deep into **Rust** and the **Polkadot** ecosystem.
 - 🎯 Aiming to bridge the gap between traditional backend development and decentralized technologies.
+- Anime is better than moives. Kill me now
 
 ---
 
