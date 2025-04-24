@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<!--
-**Hbuhero/Hbuhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- **Hbuhero/Hbuhero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on a university event management app
 - 🌱 I’m currently learning Rust and Polkadot Ecosystem
@@ -82,4 +80,4 @@ Feel free to reach out or explore more of my work:
 
 Thank you for visiting my profile! 🚀
 
--->
+
